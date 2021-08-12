@@ -1,0 +1,16 @@
+.header {
+  
+  padding-top: 34px;
+}
+
+.header__container {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo__icon {
+  background-image: url(/img/icons/main-logo.svg);
+  width: 243px;
+  height: 44px;
+}

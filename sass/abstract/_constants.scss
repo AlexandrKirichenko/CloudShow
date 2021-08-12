@@ -1,0 +1,37 @@
+$color-brand: #0460BA;
+$color-background: #F4F5F9;
+$color-hading: #1A233B;
+$color-text: #35415E;
+$color-text2: #FFFFFF;
+$color-green: #06B247;
+
+$content-width: 1080px;
+$tablet-width: 768px;
+$mobile-bid-width: 414px;
+$mobile-small-width: 320px;
+
+h1 {
+  font-family: Nunito Sans, sans-serif;
+  font-weight: 800;
+  font-size: 60px;
+  line-height: 77px; /* or 128% */
+  color: $color-hading;
+}
+
+h2 {
+  font-family: Nunito Sans, sans-serif;
+  font-weight: 800;
+  font-size: 34px;
+  line-height: 28px;
+  color: $color-hading;
+}
+
+h4 {
+  font-family: Nunito Sans, sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 22px; /* identical to box height, or 122% */
+  color: $color-hading;
+}
+
+
